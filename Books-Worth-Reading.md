@@ -1,0 +1,1 @@
+ - [Learn Bash the Hard Way](https://leanpub.com/learnbashthehardway)
